@@ -1,8 +1,8 @@
 # Mobile-sales-Dashboard-PowerBi-
 I’m excited to share my Power BI–based Mobile Sales Dashboard, designed to analyze sales performance, customer behavior, and business trends using interactive visuals and dynamic KPIs 📈
 
-1. Dataset Used
-Mobile sales transaction data containing information related to brands, mobile models, sales amount, quantity, payment methods, customer ratings, time, and location.
+## 📌 Dataset Used
+Mobile sales transaction data containing detailed information related to mobile brands and models, sales amount and quantity sold, various payment methods used by customers, customer ratings and feedback, time-based attributes such as month and day of transaction, and location details representing different sales regions. This dataset enables comprehensive analysis of sales performance, customer behavior, and market trends.
 
 <a href="https://github.com/prachiem/Mobile-sales-Dashboard-PowerBi-/blob/main/Mobile%20Sales%20Data.xlsx">Dataset</a>
 
